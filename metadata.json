@@ -1,0 +1,7 @@
+{
+  "name": "AI Trip Planner",
+  "description": "An application that suggests interesting places to visit between a source and a destination, powered by Gemini with Google Maps grounding for up-to-date and accurate information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
